@@ -12,6 +12,10 @@ https://docs.matic.network/docs/develop/metamask/config-polygon-on-metamask/
 Recieve Test Coins on Matic  
 https://faucet.polygon.technology/
 
+## Fundraising
+* Contributors are welcome to create their own NFTs within the game for any accessories needed,  
+such as shields, mining drills, weapons, booster jets etc.
+* There are no limits in this regard, except that the base of each ship in the game must be a Scalene NFT.
 
 ## Submitting a pull request
 Please leave a detailed description regarding your pull requests.
