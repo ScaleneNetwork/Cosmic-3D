@@ -14,7 +14,7 @@ as in-game incentives over the course of the games entire lifetime.
 https://docs.matic.network/docs/develop/metamask/config-polygon-on-metamask/  
 * Recieve Test Coins on Matic  
 https://faucet.polygon.technology/
-Developing a dApp on Polygon
+Developing a dApp on Polygon  
 * https://docs.matic.network/docs/develop/getting-started/
 
 ## Fundraising
