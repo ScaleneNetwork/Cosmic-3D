@@ -14,8 +14,8 @@ as in-game incentives over the course of the games entire lifetime.
 https://docs.matic.network/docs/develop/metamask/config-polygon-on-metamask/  
 * Recieve Test Coins on Matic  
 https://faucet.polygon.technology/
-Developing a dApp on Polygon  
-* https://docs.matic.network/docs/develop/getting-started/
+* Developing a dApp on Polygon  
+https://docs.matic.network/docs/develop/getting-started/
 
 ## Fundraising
 * Contributors are welcome to create and sell their own NFTs for the game for any accessories needed,  
