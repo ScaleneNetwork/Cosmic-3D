@@ -14,7 +14,7 @@ Recieve Test Coins on Matic
 https://faucet.polygon.technology/
 
 ## Fundraising
-* Contributors are welcome to create their own NFTs for the game for any accessories needed,  
+* Contributors are welcome to create and sell their own NFTs for the game for any accessories needed,  
 such as shields, mining drills, weapons, booster jets etc.
 * There are no limits in this regard, except that the base of each ship in the game must be a Scalene NFT.
 
