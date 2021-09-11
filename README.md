@@ -7,9 +7,9 @@ Working title for 3D Community-made Game in development for the Scalene Network.
 * Scalene Network has allocated up to 100,000,000 Scalene (3D) Tokens to be distributed
 as in-game incentives over the course of the games entire lifetime.
 * Developers/contributors will be given access to Scalene NFTs
-* Scalene NFTs are on the polygon network. To access the polygon testnet on metamask
-https://docs.matic.network/docs/develop/metamask/config-polygon-on-metamask/
-Recieve Test Coins on Matic
+* Scalene NFTs are on the polygon network. To access the polygon testnet on metamask  
+https://docs.matic.network/docs/develop/metamask/config-polygon-on-metamask/  
+Recieve Test Coins on Matic  
 https://faucet.polygon.technology/
 
 
