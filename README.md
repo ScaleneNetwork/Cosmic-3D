@@ -8,10 +8,14 @@ Working title for 3D Community-made Game in development for the Scalene Network.
 as in-game incentives over the course of the games entire lifetime.
 * Developers/contributors will be given access to Scalene NFTs.
 * The properties of Scalene NFTs should influence gameplay such as bonus abilities or capacities.
+
+## Resources
 * Scalene NFTs are on the polygon network. To access the polygon testnet on metamask  
 https://docs.matic.network/docs/develop/metamask/config-polygon-on-metamask/  
-Recieve Test Coins on Matic  
+* Recieve Test Coins on Matic  
 https://faucet.polygon.technology/
+Developing a dApp on Polygon
+* https://docs.matic.network/docs/develop/getting-started/
 
 ## Fundraising
 * Contributors are welcome to create and sell their own NFTs for the game for any accessories needed,  
