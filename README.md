@@ -6,14 +6,15 @@ Working title for 3D Community-made Game in development for the Scalene Network.
 * Users should be able to load 3D Models from their NFTs into the game.
 * Scalene Network has allocated up to 100,000,000 Scalene (3D) Tokens to be distributed
 as in-game incentives over the course of the games entire lifetime.
-* Developers/contributors will be given access to Scalene NFTs
+* Developers/contributors will be given access to Scalene NFTs.
+* The properties of Scalene NFTs should influence gameplay such as bonus abilities or capacities.
 * Scalene NFTs are on the polygon network. To access the polygon testnet on metamask  
 https://docs.matic.network/docs/develop/metamask/config-polygon-on-metamask/  
 Recieve Test Coins on Matic  
 https://faucet.polygon.technology/
 
 ## Fundraising
-* Contributors are welcome to create their own NFTs within the game for any accessories needed,  
+* Contributors are welcome to create their own NFTs for the game for any accessories needed,  
 such as shields, mining drills, weapons, booster jets etc.
 * There are no limits in this regard, except that the base of each ship in the game must be a Scalene NFT.
 
